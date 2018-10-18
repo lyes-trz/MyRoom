@@ -1,6 +1,6 @@
 # MyRoom
 
-> A PHP project
+> A PHP project "reservation des gites touristiques" 
 
 ## Ilyas JABAR
 
