@@ -269,7 +269,6 @@ if ($conn->connect_error) {
 										<li class="m-nav__item m-dropdown m-dropdown--medium m-dropdown--arrow  m-dropdown--align-right m-dropdown--mobile-full-width m-dropdown--skin-light" data-dropdown-toggle="click">
 											<a href="#" class="m-nav__link m-dropdown__toggle">
 												<span class="m-topbar__username m--hidden-mobile" >
-													ilyas
 												</span>
 												<span class="m-topbar__userpic">
 													<img src="IMG_7682.jpg" class="m--img-rounded m--marginless m--img-centered" alt=""/>
@@ -290,10 +289,8 @@ if ($conn->connect_error) {
 															</div>
 															<div class="m-card-user__details">
 																<span class="m-card-user__name m--font-weight-500">
-																	ilyas jabar
 																</span>
 																<a href="#" class="m-card-user__email m--font-weight-300 m-link">
-																	ilyasjabar@gmail.com
 																</a>
 															</div>
 														</div>
